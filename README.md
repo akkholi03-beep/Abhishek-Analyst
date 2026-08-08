@@ -1,5 +1,55 @@
-# 💫 About Me:
-I am abhishek Data Analyst-2 as a fresher. Proven expertise in Sql, Excel, Power Bi, Python, alongside strong capabilities in data magangment using useful insights and robust PostgreSQL/Python/MySQL database solutions. Dedicated to optimizing system performance and delivering high-priority, end-to-end features python & Core Languages : Python, matplotilb, Pandas, SQL  ,R, Groovy<br>Frameworks	: SQL,postregsql , SpringBoot<br>Databases	:Postgresql, MySQL<br>Cloud &	: Git/GitHub <br>
+# 👋 Hi, I'm Abhishek
+
+### 📊 Data Analyst | SQL | Python | Power BI | Excel
+
+I am a **Fresher Data Analyst** with a strong foundation in **SQL, Python, Power BI, and Excel**. I enjoy working with data to clean, analyze, visualize, and generate meaningful insights for data-driven decision-making.
+
+I am continuously building my skills through **real-world datasets, data analysis projects, SQL queries, and interactive dashboards**.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📌 Data Analytics
+- SQL
+- Python
+- Excel
+- Power BI
+
+### 🐍 Python Libraries
+- Pandas
+- Matplotlib
+- Numpy
+- Seaborn
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+
+### 🔧 Tools
+- Git
+- GitHub
+
+---
+
+## 📂 What I Work On
+
+- 📊 Data Analysis & Exploration
+- 🧹 Data Cleaning
+- 🗃️ SQL Queries & Database Analysis
+- 📈 Power BI Dashboards
+- 📑 Excel Analysis & Reports
+- 🐍 Python-based Data Analysis
+
+---
+
+## 🎯 Career Goal
+
+To start my career as a **Data Analyst** and use data to solve real-world business problems while continuously improving my analytical and technical skills.
+
+---
+
+⭐ **Thanks for visiting my profile!**
 
 
 ## 🌐 Socials:
