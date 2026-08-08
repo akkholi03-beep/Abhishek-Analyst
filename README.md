@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Portfolio Projects**
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **"Data analysis Projects"**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak-kumar-485b602a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-485b602a3" height="30" width="40" /></a>
-<a href="https://instagram.com/deepakanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepakanalyst" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepak8217705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepak8217705" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-947b22414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-485b602a3" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishek_kohli_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abhishek" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepak8217705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/i6dywnp9lq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i6dywnp9lq" height="30" width="40" /></a>
 </p>
 
