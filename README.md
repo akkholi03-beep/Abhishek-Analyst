@@ -68,8 +68,8 @@ To start my career as a **Data Analyst** and use data to solve real-world busine
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abhishek&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false&date_format=j%20M%20Y)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
